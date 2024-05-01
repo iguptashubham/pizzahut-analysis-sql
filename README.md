@@ -1,7 +1,7 @@
 # Pizzahut analysis by `MySQL`
 ![mysql-pizzahut-data-analysis-shubham-gupta-this (2)](https://github.com/iguptashubham/pizzahut-analysis-sql/assets/140319219/dfb29863-d64e-4ef3-b6a5-eb217792f13b)
 
-Pizzahut data nalysis done by Shubham Gupta in MySql. This dataset is provided by friend of mine intern at pizzahut. In pizzahut, they used this dataset to train and ask question.
+Pizzahut data analysis done by Shubham Gupta in MySql. This dataset is provided by friend of mine intern at pizzahut. In pizzahut, they used this dataset to train and ask question.
 This data does not reveal anything about the pizzahut. It is safe to share. you can also find the dataset on kaggle.
 
 Dataset ia intereting and ideal for data analysis. if you want to practice sql or data analysis. i recommend you to use this dataset. you can apply various method like from pandas merge, groupby and much more.
